@@ -1,0 +1,4 @@
+Faker
+pwntools
+pwncat-cs
+rich_click
